@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="zoe2" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/zoe2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/zoe2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="alocaMatrizImagem.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="alocaString.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="alteraImagem.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="binarizar.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cadastraImagem.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="copiaMatrizImagem.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="desalocaMatrizImagem.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="espelhar.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="getDimension.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="getExtension.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="getImage.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="getLastId.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="getSize.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="getSystemTime.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="gravaImagem.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="gravaInfoImagem.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="leArquivoImagem.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="libTrabalho.h" />
+		<Unit filename="listaImagens.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="menuOperacoes.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="negativo.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="removeImagem.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ruido.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="verificaCadastro.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="verificaExistenciaDeImagem.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

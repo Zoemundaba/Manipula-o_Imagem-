@@ -1,0 +1,169 @@
+# depslib dependency file v1.0
+1638572132 source:c:\users\pichau\desktop\zoe2\alocamatrizimagem.c
+	"libtrabalho.h"
+
+1638836476 c:\users\pichau\desktop\zoe2\libtrabalho.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<dirent.h>
+	<sys/stat.h>
+
+1637370256 source:c:\users\pichau\desktop\zoe2\alocastring.c
+	"libtrabalho.h"
+
+1637626418 source:c:\users\pichau\desktop\zoe2\cadastraimagem.c
+	"libtrabalho.h"
+
+1638837513 source:c:\users\pichau\desktop\zoe2\copiamatrizimagem.c
+	"libtrabalho.h"
+
+1638837814 source:c:\users\pichau\desktop\zoe2\alteraimagem.c
+	"libtrabalho.h"
+
+1637626428 source:c:\users\pichau\desktop\zoe2\getdimension.c
+	"libtrabalho.h"
+
+1637626440 source:c:\users\pichau\desktop\zoe2\getextension.c
+	"libtrabalho.h"
+
+1627439136 source:c:\users\pichau\desktop\zoe2\getimage.c
+	"libTrabalho.h"
+
+1637626452 source:c:\users\pichau\desktop\zoe2\getlastid.c
+	"libtrabalho.h"
+
+1637626460 source:c:\users\pichau\desktop\zoe2\getsize.c
+	"libtrabalho.h"
+	"libTrabalho.h"
+
+1627438146 source:c:\users\pichau\desktop\zoe2\getsystemtime.c
+	"libTrabalho.h"
+
+1637370588 source:c:\users\pichau\desktop\zoe2\gravaimagem.c
+	"libtrabalho.h"
+
+1627440482 source:c:\users\pichau\desktop\zoe2\gravainfoimagem.c
+	"libTrabalho.h"
+
+1638836348 source:c:\users\pichau\desktop\zoe2\desalocamatrizimagem.c
+	"libtrabalho.h"
+
+1638838036 source:c:\users\pichau\desktop\zoe2\learquivoimagem.c
+	"libtrabalho.h"
+
+1638837676 source:c:\users\pichau\desktop\zoe2\listaimagens.c
+	"libtrabalho.h"
+
+1638835958 source:c:\users\pichau\desktop\zoe2\binarizar.c
+	"libtrabalho.h"
+
+1638835523 source:c:\users\pichau\desktop\zoe2\espelhar.c
+	"libtrabalho.h"
+
+1637625298 source:c:\users\pichau\desktop\zoe2\menuoperacoes.c
+	"libTrabalho.h"
+
+1638572138 source:c:\users\pichau\desktop\zoe2\removeimagem.c
+	"libTrabalho.h"
+
+1637627886 source:c:\users\pichau\desktop\zoe2\ruido.c
+	"libtrabalho.h"
+
+1638836673 source:c:\users\pichau\desktop\zoe2\negativo.c
+	"libtrabalho.h"
+
+1637626506 source:c:\users\pichau\desktop\zoe2\verificacadastro.c
+	"libtrabalho.h"
+
+1637626510 source:c:\users\pichau\desktop\zoe2\verificaexistenciadeimagem.c
+	"libTrabalho.h"
+
+1638838212 source:c:\users\pichau\desktop\zoe2\main.c
+	"libTrabalho.h"
+
+1637370256 source:c:\users\pichau\desktop\zoe2\zoe2\alocastring.c
+	"libtrabalho.h"
+
+1639099344 c:\users\pichau\desktop\zoe2\zoe2\libtrabalho.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<dirent.h>
+	<sys/stat.h>
+
+1639099308 source:c:\users\pichau\desktop\zoe2\zoe2\alocamatrizimagem.c
+	"libtrabalho.h"
+
+1639099310 source:c:\users\pichau\desktop\zoe2\zoe2\alteraimagem.c
+	"libtrabalho.h"
+
+1639099314 source:c:\users\pichau\desktop\zoe2\zoe2\binarizar.c
+	"libtrabalho.h"
+
+1639099318 source:c:\users\pichau\desktop\zoe2\zoe2\copiamatrizimagem.c
+	"libtrabalho.h"
+
+1639099326 source:c:\users\pichau\desktop\zoe2\zoe2\desalocamatrizimagem.c
+	"libtrabalho.h"
+
+1639099328 source:c:\users\pichau\desktop\zoe2\zoe2\espelhar.c
+	"libtrabalho.h"
+
+1639099332 source:c:\users\pichau\desktop\zoe2\zoe2\getimage.c
+	"libTrabalho.h"
+
+1639099334 source:c:\users\pichau\desktop\zoe2\zoe2\getlastid.c
+	"libtrabalho.h"
+
+1639099336 source:c:\users\pichau\desktop\zoe2\zoe2\getsize.c
+	"libtrabalho.h"
+	"libTrabalho.h"
+
+1639099338 source:c:\users\pichau\desktop\zoe2\zoe2\getsystemtime.c
+	"libTrabalho.h"
+
+1639099340 source:c:\users\pichau\desktop\zoe2\zoe2\gravaimagem.c
+	"libtrabalho.h"
+
+1639329425 source:c:\users\pichau\desktop\zoe2\zoe2\cadastraimagem.c
+	"libtrabalho.h"
+
+1639099342 source:c:\users\pichau\desktop\zoe2\zoe2\learquivoimagem.c
+	"libtrabalho.h"
+
+1639099346 source:c:\users\pichau\desktop\zoe2\zoe2\listaimagens.c
+	"libtrabalho.h"
+
+1639099348 source:c:\users\pichau\desktop\zoe2\zoe2\main.c
+	"libTrabalho.h"
+
+1639330785 source:c:\users\pichau\desktop\zoe2\zoe2\getdimension.c
+	"libtrabalho.h"
+
+1639099350 source:c:\users\pichau\desktop\zoe2\zoe2\menuoperacoes.c
+	"libTrabalho.h"
+
+1639099352 source:c:\users\pichau\desktop\zoe2\zoe2\negativo.c
+	"libtrabalho.h"
+
+1639099354 source:c:\users\pichau\desktop\zoe2\zoe2\removeimagem.c
+	"libTrabalho.h"
+
+1639099356 source:c:\users\pichau\desktop\zoe2\zoe2\ruido.c
+	"libtrabalho.h"
+
+1639099358 source:c:\users\pichau\desktop\zoe2\zoe2\verificaexistenciadeimagem.c
+	"libTrabalho.h"
+
+1639329626 source:c:\users\pichau\desktop\zoe2\zoe2\verificacadastro.c
+	"libtrabalho.h"
+
+1639330123 source:c:\users\pichau\desktop\zoe2\zoe2\getextension.c
+	"libtrabalho.h"
+
+1639330702 source:c:\users\pichau\desktop\zoe2\zoe2\gravainfoimagem.c
+	"libTrabalho.h"
+
